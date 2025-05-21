@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Cursos\Java_spring_pildoras\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3942893964.index
+3781354688.index
+4239673787.index
+1158931250.index
+3028335543.index
+1929481101.index

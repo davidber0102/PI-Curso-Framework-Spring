@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+
+Name: beans/visorDeImagenesBean.class
+Java-Bean: True
+
+
